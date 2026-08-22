@@ -1,0 +1,9 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/AlternateRecipes/Parts/Recipe_Alternate_Wire_2.Recipe_Alternate_Wire_2_C
+    properties:
+      - path: mDisplayName
+        value:
+          ns: NobleMetals
+          key: GoldWire/Recipe
+          source: "Alternate: Gold Wire"

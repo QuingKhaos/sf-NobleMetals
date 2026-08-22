@@ -1,0 +1,9 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Converter/Recipe_FicsiteIngot_CAT.Recipe_FicsiteIngot_CAT_C
+    properties:
+      - path: mDisplayName
+        value:
+          ns: NobleMetals
+          key: FicsiteIngot/Gold/Recipe
+          source: "Ficsite Ingot (Gold)"

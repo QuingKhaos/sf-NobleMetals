@@ -1,0 +1,25 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Smelter/Recipe_IngotCaterium.Recipe_IngotCaterium_C
+    properties:
+      - path: mDisplayName
+        value:
+          ns: NobleMetals
+          key: GoldIngot/Name
+          source: "Gold Ingot"
+      - path: mIngredients
+        value:
+          - ItemClass: /Game/FactoryGame/Resource/RawResources/OreGold/Desc_OreGold.Desc_OreGold_C
+            Amount: 30
+      - path: mProduct
+        value:
+          - ItemClass: /Game/FactoryGame/Resource/Parts/GoldIngot/Desc_GoldIngot.Desc_GoldIngot_C
+            Amount: 9
+          - ItemClass: /NobleMetals/Resources/SilverOre/Desc_SilverOre.Desc_SilverOre_C
+            Amount: 2
+      - path: mManufactoringDuration
+        op: multiply
+        value: 10
+      - path: mProducedIn
+        value:
+          - /Game/FactoryGame/Buildable/Factory/SmelterMk1/Build_SmelterMk1.Build_SmelterMk1_C

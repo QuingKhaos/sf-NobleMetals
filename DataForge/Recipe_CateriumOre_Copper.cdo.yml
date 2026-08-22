@@ -1,0 +1,9 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Converter/ResourceConversion/Recipe_Caterium_Copper.Recipe_Caterium_Copper_C
+    properties:
+      - path: mDisplayName
+        value:
+          ns: NobleMetals
+          key: GoldOre/Copper/Recipe
+          source: "Gold Ore (Copper)"

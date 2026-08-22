@@ -1,0 +1,14 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Schematics/Research/BPD_ResearchTree_Caterium.BPD_ResearchTree_Caterium_C
+    properties:
+      - path: mDisplayName
+        value:
+          ns: NobleMetals
+          key: Gold/Name
+          source: "Gold"
+      - path: mPostUnlockDescription
+        value:
+          ns: NobleMetals
+          key: Gold/PostUnlock/Desc
+          source: "With minimal effort, gold can be used in the development of advanced electronics. It is unclear whether this is a naturally occurring on MASSAGE-2 (AB)b."

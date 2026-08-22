@@ -1,0 +1,9 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_3.Research_Caterium_3_C
+    properties:
+      - path: mDisplayName
+        value:
+          ns: NobleMetals
+          key: GoldElectronics/Schematic
+          source: "Gold Electronics"

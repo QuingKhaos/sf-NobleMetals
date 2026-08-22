@@ -1,0 +1,9 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/AlternateRecipes/New_Update9_Ingots/Recipe_Alternate_CateriumIngot_Tempered.Recipe_Alternate_CateriumIngot_Tempered_C
+    properties:
+      - path: mDisplayName
+        value:
+          ns: NobleMetals
+          key: TemperedGoldIngot/Recipe
+          source: "Alternate: Tempered Gold Ingot"

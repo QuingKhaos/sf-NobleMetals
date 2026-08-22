@@ -1,0 +1,9 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Schematics/Research/Caterium_RS/Research_Caterium_0.Research_Caterium_0_C
+    properties:
+      - path: mDisplayName
+        value:
+          ns: NobleMetals
+          key: Gold/Name
+          source: "Gold"

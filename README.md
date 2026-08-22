@@ -5,3 +5,17 @@
 Adds gold, silver, platinum and palladium to the game. Reworks computer production and much more.
 
 Note, when [Lead](https://ficsit.app/mod/Lead) is installed, Lead Ingot smelting outputs a silver byproduct instead of a copper byproduct.
+
+## What's in this mod?
+
+### Gold
+
+Everything Caterium-related is now called Gold.
+
+#### Gold Ingot
+
+![Gold Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_GoldIngot.png?raw=true)
+
+## License
+
+This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.

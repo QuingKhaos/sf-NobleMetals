@@ -1,0 +1,9 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/AlternateRecipes/New_Update3/Recipe_Alternate_PureCateriumIngot.Recipe_Alternate_PureCateriumIngot_C
+    properties:
+      - path: mDisplayName
+        value:
+          ns: NobleMetals
+          key: PureGoldIngot/Recipe
+          source: "Alternate: Pure Gold Ingot"

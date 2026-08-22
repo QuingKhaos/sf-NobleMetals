@@ -18,6 +18,11 @@
 	"BuiltInInitialFeatureState": "Active",
 	"Plugins": [
 		{
+			"Name": "ExtendedMachines",
+			"Enabled": true,
+			"SemVersion": "^1.0.1"
+		},
+		{
 			"Name": "KBFL",
 			"Enabled": true,
 			"SemVersion": "^2026.3.471"
