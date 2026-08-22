@@ -16,6 +16,24 @@ Everything Caterium-related is now called Gold.
 
 ![Gold Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_GoldIngot.png?raw=true)
 
+### Silver Processing
+
+#### Silver Ingot
+
+![Silver Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_SilverIngot.png?raw=true)
+
+#### Silver Plate
+
+![Silver Plate recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_SilverPlate.png?raw=true)
+
+#### Silver Wire
+
+![Silver Wire recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_SilverWire.png?raw=true)
+
+#### Silver Brazing Alloy
+
+![Silver Brazing Alloy recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_SilverBrazingAlloy.png?raw=true)
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
