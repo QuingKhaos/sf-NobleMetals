@@ -1,28 +1,21 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0.0",
-	"SemVersion": "1.0.0",
-	"FriendlyName": "###TITLE###",
-	"Description": "###DESC###",
+	"Version": 0,
+	"VersionName": "0.1.0",
+	"SemVersion": "0.1.0",
+	"FriendlyName": "Noble Metals",
+	"Description": "Adds silver, gold, platinum, palladium and more to the base game. Reworks computer production.",
 	"Category": "Modding",
 	"CreatedBy": "QuingKhaos",
 	"CreatedByURL": "https://github.com/QuingKhaos",
 	"DocsURL": "",
-	"MarketplaceURL": "https://ficsit.app/mod/###NAME###",
+	"MarketplaceURL": "https://ficsit.app/mod/NobleMetals",
 	"SupportURL": "https://discord.gg/B3qJBE3M9W",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"BuiltInInitialFeatureState": "Active",
-	"Modules": [
-		{
-			"Name": "###NAME###",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "KBFL",
