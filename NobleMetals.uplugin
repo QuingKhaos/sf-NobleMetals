@@ -20,7 +20,7 @@
 		{
 			"Name": "ExtendedMachines",
 			"Enabled": true,
-			"SemVersion": "^1.0.1"
+			"SemVersion": "^1.1.0"
 		},
 		{
 			"Name": "KBFL",

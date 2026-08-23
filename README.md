@@ -16,6 +16,20 @@ Everything Caterium-related is now called Gold.
 
 ![Gold Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_GoldIngot.png?raw=true)
 
+### Rich Copper Ore
+
+Rich Copper Ore node placement is preliminary and subject to change based on playtesting and feedback.
+
+<details>
+<summary>Map (spoiler!)</summary>
+<img src="https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Map.png?raw=true" alt="Map" width="100%" /> <!-- markdownlint-disable MD044 --> <br />
+Legend: Green = Pure, Orange = Normal, Red = Impure
+</details>
+
+#### Rich Copper Ingot
+
+![Rich Copper Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_RichCopperIngot.png?raw=true)
+
 ### Silver Processing
 
 #### Silver Ingot
