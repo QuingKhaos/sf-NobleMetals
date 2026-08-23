@@ -40,6 +40,12 @@ Everything Caterium-related is now called Gold.
 
 ![Platinum Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_PlatinumIngot.png?raw=true)
 
+### Palladium Processing
+
+#### Palladium Ingot
+
+![Palladium Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_PalladiumIngot.png?raw=true)
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
