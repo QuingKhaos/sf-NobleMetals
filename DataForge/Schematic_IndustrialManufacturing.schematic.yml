@@ -1,0 +1,14 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/schematic.schema.yml
+type: schematic
+schematics:
+  - class: /Game/FactoryGame/Schematics/Progression/Schematic_5-2.Schematic_5-2_C
+    register: false
+    scannableResources:
+      - nodeType: Node
+        resource: /Game/FactoryGame/Resource/RawResources/Sulfur/Desc_Sulfur.Desc_Sulfur_C
+    recipes:
+      - /Game/FactoryGame/Recipes/OilRefinery/Recipe_SulfuricAcid.Recipe_SulfuricAcid_C
+      - /Game/FactoryGame/Recipes/Packager/Recipe_UnpackageSulfuricAcid.Recipe_UnpackageSulfuricAcid_C
+      - /Game/FactoryGame/Recipes/Packager/Recipe_PackagedSulfuricAcid.Recipe_PackagedSulfuricAcid_C
+      - /NobleMetals/Resources/CPU/Recipe_CPU.Recipe_CPU_C

@@ -88,6 +88,12 @@ If [Zirconium](https://ficsit.app/mod/Zirconium) is installed, the recipe is cha
 
 ![MLCC with Zirconium recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_MLCC_Zirconium.png?raw=true)
 
+### CPU
+
+![CPU recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_CPU.png?raw=true)
+
+If [Silicon](https://ficsit.app/mod/Silicon) is installed, Silica is replaced with Silicon Wafers. If [Salt & Chlorine](https://ficsit.app/mod/Chlorine) is installed, Circuit Board is replaced with PCBs.
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
