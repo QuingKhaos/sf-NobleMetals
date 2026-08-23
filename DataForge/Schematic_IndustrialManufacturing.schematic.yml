@@ -12,3 +12,4 @@ schematics:
       - /Game/FactoryGame/Recipes/Packager/Recipe_UnpackageSulfuricAcid.Recipe_UnpackageSulfuricAcid_C
       - /Game/FactoryGame/Recipes/Packager/Recipe_PackagedSulfuricAcid.Recipe_PackagedSulfuricAcid_C
       - /NobleMetals/Resources/CPU/Recipe_CPU.Recipe_CPU_C
+      - /NobleMetals/Resources/Mainboard/Recipe_Mainboard.Recipe_Mainboard_C

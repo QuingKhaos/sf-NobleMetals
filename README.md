@@ -94,6 +94,18 @@ If [Zirconium](https://ficsit.app/mod/Zirconium) is installed, the recipe is cha
 
 If [Silicon](https://ficsit.app/mod/Silicon) is installed, Silica is replaced with Silicon Wafers. If [Salt & Chlorine](https://ficsit.app/mod/Chlorine) is installed, Circuit Board is replaced with PCBs.
 
+### Mainboard
+
+![Mainboard recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_Mainboard.png?raw=true)
+
+### Computer
+
+![Computer recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_Computer.png?raw=true)
+
+![Gold Computer alternate recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_Alternate_GoldComputer.png?raw=true)
+
+![Crystal Computer alternate recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_Alternate_CrystalComputer.png?raw=true)
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
