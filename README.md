@@ -74,6 +74,20 @@ If [Zirconium](https://ficsit.app/mod/Zirconium) is installed, the recipe is cha
 
 ![Temperature Sensor with Zirconium recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_TemperatureSensor_Zirconium.png?raw=true)
 
+### Advanced Capacitors
+
+#### MLCC
+
+![MLCC recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_MLCC.png?raw=true)
+
+If [Silicon](https://ficsit.app/mod/Silicon) is installed, the recipe is changed to
+
+![MLCC with Silicon recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_MLCC_Silicon.png?raw=true)
+
+If [Zirconium](https://ficsit.app/mod/Zirconium) is installed, the recipe is changed to
+
+![MLCC with Zirconium recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_MLCC_Zirconium.png?raw=true)
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
