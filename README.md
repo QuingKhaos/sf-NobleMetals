@@ -128,7 +128,7 @@ Else if [Silicon](https://ficsit.app/mod/Silicon) is installed, the recipe is ch
 
 ![CPU recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_CPU.png?raw=true)
 
-If [Silicon](https://ficsit.app/mod/Silicon) is installed, Silica is replaced with Silicon Wafers. If [Salt & Chlorine](https://ficsit.app/mod/Chlorine) is installed, Circuit Board is replaced with PCBs.
+If [Silicon](https://ficsit.app/mod/Silicon) is installed, Silica is replaced with Silicon Wafers.
 
 ### Mainboard
 
