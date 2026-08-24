@@ -1,0 +1,473 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "NobleMetals",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Advanced Capacitors"
+					},
+					"Translation":
+					{
+						"Text": "Advanced Capacitors"
+					},
+					"Key": "AdvancedCapacitors/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Gold Computer"
+					},
+					"Translation":
+					{
+						"Text": "Alternate: Gold Computer"
+					},
+					"Key": "GoldComputer/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Leached Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Alternate: Leached Gold Ingot"
+					},
+					"Key": "LeachedGoldIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Pure Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Alternate: Pure Gold Ingot"
+					},
+					"Key": "PureGoldIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Tempered Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Alternate: Tempered Gold Ingot"
+					},
+					"Key": "TemperedGoldIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bauxite (Gold)"
+					},
+					"Translation":
+					{
+						"Text": "Bauxite (Gold)"
+					},
+					"Key": "Bauxite/Gold/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "CPU"
+					},
+					"Translation":
+					{
+						"Text": "CPU"
+					},
+					"Key": "CPU/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Central Processing Unit"
+					},
+					"Translation":
+					{
+						"Text": "Central Processing Unit"
+					},
+					"Key": "CPU/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Copper Ore that contains Platinum and Palladium."
+					},
+					"Translation":
+					{
+						"Text": "Copper Ore that contains Platinum and Palladium."
+					},
+					"Key": "RichCopperOre/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ficsite Ingot (Gold)"
+					},
+					"Translation":
+					{
+						"Text": "Ficsite Ingot (Gold)"
+					},
+					"Key": "FicsiteIngot/Gold/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold"
+					},
+					"Translation":
+					{
+						"Text": "Gold"
+					},
+					"Key": "Gold/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold"
+					},
+					"Translation":
+					{
+						"Text": "Gold"
+					},
+					"Key": "GoldIngot/Abbr"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold"
+					},
+					"Translation":
+					{
+						"Text": "Gold"
+					},
+					"Key": "GoldOre/Abbr"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Electronics"
+					},
+					"Translation":
+					{
+						"Text": "Gold Electronics"
+					},
+					"Key": "GoldElectronics/Schematic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Gold Ingot"
+					},
+					"Key": "GoldIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ore"
+					},
+					"Translation":
+					{
+						"Text": "Gold Ore"
+					},
+					"Key": "GoldOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ore (Copper)"
+					},
+					"Translation":
+					{
+						"Text": "Gold Ore (Copper)"
+					},
+					"Key": "GoldOre/Copper/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ore (Quartz)"
+					},
+					"Translation":
+					{
+						"Text": "Gold Ore (Quartz)"
+					},
+					"Key": "GoldOre/Quartz/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "MLCC"
+					},
+					"Translation":
+					{
+						"Text": "MLCC"
+					},
+					"Key": "MLCC/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mainboard"
+					},
+					"Translation":
+					{
+						"Text": "Mainboard"
+					},
+					"Key": "Mainboard/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multi-Layer Ceramic Capacitor"
+					},
+					"Translation":
+					{
+						"Text": "Multi-Layer Ceramic Capacitor"
+					},
+					"Key": "MLCC/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nitrogen Gas (Gold)"
+					},
+					"Translation":
+					{
+						"Text": "Nitrogen Gas (Gold)"
+					},
+					"Key": "NitrogenGas/Gold/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Palladium Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Palladium Ingot"
+					},
+					"Key": "PalladiumIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Palladium Powder"
+					},
+					"Translation":
+					{
+						"Text": "Palladium Powder"
+					},
+					"Key": "PalladiumPowder/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Palladium Processing"
+					},
+					"Translation":
+					{
+						"Text": "Palladium Processing"
+					},
+					"Key": "PalladiumProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Platinum Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Platinum Ingot"
+					},
+					"Key": "PlatinumIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Platinum Powder"
+					},
+					"Translation":
+					{
+						"Text": "Platinum Powder"
+					},
+					"Key": "PlatinumPowder/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Platinum Processing"
+					},
+					"Translation":
+					{
+						"Text": "Platinum Processing"
+					},
+					"Key": "PlatinumProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rich Copper Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Rich Copper Ingot"
+					},
+					"Key": "RichCopperIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rich Copper Ore"
+					},
+					"Translation":
+					{
+						"Text": "Rich Copper Ore"
+					},
+					"Key": "RichCopperOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Brazing Alloy"
+					},
+					"Translation":
+					{
+						"Text": "Silver Brazing Alloy"
+					},
+					"Key": "SilverBrazingAlloy/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Concentrate"
+					},
+					"Translation":
+					{
+						"Text": "Silver Concentrate"
+					},
+					"Key": "SilverOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Silver Ingot"
+					},
+					"Key": "SilverIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Plate"
+					},
+					"Translation":
+					{
+						"Text": "Silver Plate"
+					},
+					"Key": "SilverPlate/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Processing"
+					},
+					"Translation":
+					{
+						"Text": "Silver Processing"
+					},
+					"Key": "SilverProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Wire"
+					},
+					"Translation":
+					{
+						"Text": "Silver Wire"
+					},
+					"Key": "SilverWire/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Smelted from Gold Ore. Primarily used for advanced electronics."
+					},
+					"Translation":
+					{
+						"Text": "Smelted from Gold Ore. Primarily used for advanced electronics."
+					},
+					"Key": "GoldIngot/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Smelted into Gold Ingots, which are primarily used for advanced electronics."
+					},
+					"Translation":
+					{
+						"Text": "Smelted into Gold Ingots, which are primarily used for advanced electronics."
+					},
+					"Key": "GoldOre/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Temperature Regulation"
+					},
+					"Translation":
+					{
+						"Text": "Temperature Regulation"
+					},
+					"Key": "TemperatureRegulation/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Temperature Sensor"
+					},
+					"Translation":
+					{
+						"Text": "Temperature Sensor"
+					},
+					"Key": "TemperatureSensor/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium-Palladium Flange"
+					},
+					"Translation":
+					{
+						"Text": "Titanium-Palladium Flange"
+					},
+					"Key": "TitaniumPalladiumFlange/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "With minimal effort, gold can be used in the development of advanced electronics. It is unclear whether this is a naturally occurring on MASSAGE-2 (AB)b."
+					},
+					"Translation":
+					{
+						"Text": "With minimal effort, gold can be used in the development of advanced electronics. It is unclear whether this is a naturally occurring on MASSAGE-2 (AB)b."
+					},
+					"Key": "Gold/PostUnlock/Desc"
+				}
+			]
+		}
+	]
+}
