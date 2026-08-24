@@ -42,6 +42,8 @@ A separate Gold Ingot recipe is created without silver byproduct, which can be e
 
 ![Silver Processing schematic](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Schematic_SilverProcessing.png?raw=true)
 
+Silver is mostly used as a buildable ingredient.
+
 #### Silver Ingot
 
 ![Silver Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_SilverIngot.png?raw=true)
@@ -80,6 +82,12 @@ If [Titanium](https://ficsit.app/mod/KhaosTitanium) is installed, a Titanium-Pal
 
 ![Titanium-Palladium Flange recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_TitaniumPalladiumFlange.png?raw=true)
 
+![Heat Sink recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_HeatSink.png?raw=true)
+
+![Heat Exchanger alternate recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_Alternate_HeatExchanger.png?raw=true)
+
+![Assembly Director System recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_AssemblyDirectorSystem.png?raw=true)
+
 ### Temperature Regulation
 
 ![Temperature Regulation schematic](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Schematic_TemperatureRegulation.png?raw=true)
@@ -96,6 +104,8 @@ Else if [Silicon](https://ficsit.app/mod/Silicon) is installed, the recipe is ch
 
 ![Temperature Sensor with Silicon recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_TemperatureSensor_Silicon.png?raw=true)
 
+![Magnetic Field Generator recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_MagneticFieldGenerator.png?raw=true)
+
 ### Advanced Capacitors
 
 ![Advanced Capacitors schematic](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Schematic_AdvancedCapacitors.png?raw=true)
@@ -111,6 +121,8 @@ If [Zirconium](https://ficsit.app/mod/Zirconium) is installed, the recipe is cha
 Else if [Silicon](https://ficsit.app/mod/Silicon) is installed, the recipe is changed to
 
 ![MLCC with Silicon recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_MLCC_Silicon.png?raw=true)
+
+![OC Supercomputer alternate recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_Alternate_OCSupercomputer.png?raw=true)
 
 ### CPU
 
