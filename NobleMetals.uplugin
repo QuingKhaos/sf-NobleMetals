@@ -25,12 +25,12 @@
 		{
 			"Name": "KBFL",
 			"Enabled": true,
-			"SemVersion": "^2026.3.471"
+			"SemVersion": "^2026.3.500"
 		},
 		{
 			"Name": "KDataForge",
 			"Enabled": true,
-			"SemVersion": "^2026.3.471"
+			"SemVersion": "^2026.3.497"
 		},
 		{
 			"Name": "KhaosLib",
