@@ -1,0 +1,11 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/schematic.schema.yml
+type: schematic
+conditions:
+  hasMod:
+    - KhaosTitanium@>=0.1.0
+schematics:
+  - class: /NobleMetals/Schematics/Schematic_PalladiumProcessing.Schematic_PalladiumProcessing_C
+    register: false
+    recipes:
+      - /NobleMetals/Resources/TitaniumPalladiumFlange/Recipe_TitaniumPalladiumFlange.Recipe_TitaniumPalladiumFlange_C

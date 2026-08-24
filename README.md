@@ -60,6 +60,12 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 
 ![Palladium Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_PalladiumIngot.png?raw=true)
 
+#### Titanium-Palladium Flange
+
+If [Titanium](https://ficsit.app/mod/KhaosTitanium) is installed, a Titanium-Palladium Flange recipe is added.
+
+![Titanium-Palladium Flange recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_TitaniumPalladiumFlange.png?raw=true)
+
 ### Temperature Regulation
 
 #### Temperature Sensor
