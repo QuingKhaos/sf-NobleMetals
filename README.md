@@ -12,10 +12,6 @@ Note, when [Lead](https://ficsit.app/mod/Lead) is installed, Lead Ingot smelting
 
 Everything Caterium-related is now called Gold.
 
-#### Gold Ingot
-
-![Gold Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_GoldIngot.png?raw=true)
-
 ### Rich Copper Ore
 
 Rich Copper Ore node placement is preliminary and subject to change based on playtesting and feedback.
@@ -30,7 +26,21 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 
 ![Rich Copper Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_RichCopperIngot.png?raw=true)
 
+### Silver Concentrate
+
+![Copper Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_CopperIngot.png?raw=true)
+
+A separate Copper Ingot recipe is created without silver byproduct, which can be exclusively crafted in workbenchs.
+
+![Lead Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_LeadIngot.png?raw=true)
+
+![Gold Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_GoldIngot.png?raw=true)
+
+A separate Gold Ingot recipe is created without silver byproduct, which can be exclusively crafted in workbenchs.
+
 ### Silver Processing
+
+![Silver Processing schematic](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Schematic_SilverProcessing.png?raw=true)
 
 #### Silver Ingot
 
@@ -50,11 +60,15 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 
 ### Platinum Processing
 
+![Platinum Processing schematic](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Schematic_PlatinumProcessing.png?raw=true)
+
 #### Platinum Ingot
 
 ![Platinum Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_PlatinumIngot.png?raw=true)
 
 ### Palladium Processing
+
+![Palladium Processing schematic](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Schematic_PalladiumProcessing.png?raw=true)
 
 #### Palladium Ingot
 
@@ -68,31 +82,35 @@ If [Titanium](https://ficsit.app/mod/KhaosTitanium) is installed, a Titanium-Pal
 
 ### Temperature Regulation
 
+![Temperature Regulation schematic](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Schematic_TemperatureRegulation.png?raw=true)
+
 #### Temperature Sensor
 
 ![Temperature Sensor recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_TemperatureSensor.png?raw=true)
-
-If [Silicon](https://ficsit.app/mod/Silicon) is installed, the recipe is changed to
-
-![Temperature Sensor with Silicon recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_TemperatureSensor_Silicon.png?raw=true)
 
 If [Zirconium](https://ficsit.app/mod/Zirconium) is installed, the recipe is changed to
 
 ![Temperature Sensor with Zirconium recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_TemperatureSensor_Zirconium.png?raw=true)
 
+Else if [Silicon](https://ficsit.app/mod/Silicon) is installed, the recipe is changed to
+
+![Temperature Sensor with Silicon recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_TemperatureSensor_Silicon.png?raw=true)
+
 ### Advanced Capacitors
+
+![Advanced Capacitors schematic](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Schematic_AdvancedCapacitors.png?raw=true)
 
 #### MLCC
 
 ![MLCC recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_MLCC.png?raw=true)
 
-If [Silicon](https://ficsit.app/mod/Silicon) is installed, the recipe is changed to
-
-![MLCC with Silicon recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_MLCC_Silicon.png?raw=true)
-
 If [Zirconium](https://ficsit.app/mod/Zirconium) is installed, the recipe is changed to
 
 ![MLCC with Zirconium recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_MLCC_Zirconium.png?raw=true)
+
+Else if [Silicon](https://ficsit.app/mod/Silicon) is installed, the recipe is changed to
+
+![MLCC with Silicon recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_MLCC_Silicon.png?raw=true)
 
 ### CPU
 
