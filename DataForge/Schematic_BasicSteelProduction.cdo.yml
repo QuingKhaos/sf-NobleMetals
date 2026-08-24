@@ -1,0 +1,11 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Schematics/Progression/Schematic_3-4.Schematic_3-4_C
+    properties:
+      - path: mCost
+        op: append
+        value:
+          ItemClass: /NobleMetals/Resources/TemperatureSensor/Desc_TemperatureSensor.Desc_TemperatureSensor_C
+          Amount: 100

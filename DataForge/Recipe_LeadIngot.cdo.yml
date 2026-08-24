@@ -1,0 +1,11 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+conditions:
+  hasMod:
+    - Lead@>=0.1.0
+patches:
+  - target: /Lead/Resources/LeadIngot/Recipe_LeadIngot.Recipe_LeadIngot_C
+    properties:
+      - path: mProduct[1].ItemClass
+        value: /NobleMetals/Resources/SilverOre/Desc_SilverOre.Desc_SilverOre_C

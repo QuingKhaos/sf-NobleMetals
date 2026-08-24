@@ -1,0 +1,56 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+conditions:
+  hasMod:
+    - Lead@>=0.1.0
+patches:
+  - target: /Game/FactoryGame/Recipes/Smelter/Recipe_IngotCopper.Recipe_IngotCopper_C
+    properties:
+      - path: mIngredients[0].Amount
+        op: multiply
+        value: 10
+      - path: mProduct[0].Amount
+        op: multiply
+        value: 10
+      - path: mProduct
+        op: append
+        value:
+          ItemClass: /NobleMetals/Resources/SilverOre/Desc_SilverOre.Desc_SilverOre_C
+          Amount: 1
+      - path: mManufactoringDuration
+        op: multiply
+        value: 10
+      - path: mProducedIn
+        value:
+          - /Game/FactoryGame/Buildable/Factory/SmelterMk1/Build_SmelterMk1.Build_SmelterMk1_C
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+conditions:
+  hasMod:
+    - Lead@>=0.1.0
+  ifNotMatch: true
+patches:
+  - target: /Game/FactoryGame/Recipes/Smelter/Recipe_IngotCopper.Recipe_IngotCopper_C
+    properties:
+      - path: mIngredients[0].Amount
+        op: multiply
+        value: 4
+      - path: mProduct[0].Amount
+        op: multiply
+        value: 4
+      - path: mProduct[0].Amount
+        op: subtract
+        value: 1
+      - path: mProduct
+        op: append
+        value:
+          ItemClass: /NobleMetals/Resources/SilverOre/Desc_SilverOre.Desc_SilverOre_C
+          Amount: 1
+      - path: mManufactoringDuration
+        op: multiply
+        value: 4
+      - path: mProducedIn
+        value:
+          - /Game/FactoryGame/Buildable/Factory/SmelterMk1/Build_SmelterMk1.Build_SmelterMk1_C

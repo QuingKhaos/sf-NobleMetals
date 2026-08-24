@@ -1,0 +1,13 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+conditions:
+  hasMod:
+    - Chlorine@>=0.1.0
+patches:
+  - target: /Chlorine/Schematics/Schematic_ChlorineProcessing.Schematic_ChlorineProcessing_C
+    properties:
+      - path: mTechTier
+        value: 6
+      - path: mMenuPriority
+        value: 1.5

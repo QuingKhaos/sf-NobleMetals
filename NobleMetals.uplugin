@@ -16,16 +16,28 @@
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"BuiltInInitialFeatureState": "Active",
+	"LocalizationTargets": [
+		{
+			"Name": "NobleMetals",
+			"LoadingPolicy": "Always",
+			"ConfigGenerationPolicy": "Never"
+		}
+	],
 	"Plugins": [
+		{
+			"Name": "ExtendedMachines",
+			"Enabled": true,
+			"SemVersion": "^1.2.0"
+		},
 		{
 			"Name": "KBFL",
 			"Enabled": true,
-			"SemVersion": "^2026.3.471"
+			"SemVersion": "^2026.3.500"
 		},
 		{
 			"Name": "KDataForge",
 			"Enabled": true,
-			"SemVersion": "^2026.3.471"
+			"SemVersion": "^2026.3.497"
 		},
 		{
 			"Name": "KhaosLib",

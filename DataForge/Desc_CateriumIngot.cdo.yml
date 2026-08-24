@@ -1,0 +1,21 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Resource/Parts/GoldIngot/Desc_GoldIngot.Desc_GoldIngot_C
+    properties:
+      - path: mDisplayName
+        value:
+          ns: NobleMetals
+          key: GoldIngot/Name
+          source: "Gold Ingot"
+      - path: mDescription
+        value:
+          ns: NobleMetals
+          key: GoldIngot/Desc
+          source: "Smelted from Gold Ore. Primarily used for advanced electronics."
+      - path: mAbbreviatedDisplayName
+        value:
+          ns: NobleMetals
+          key: GoldIngot/Abbr
+          source: "Gold"

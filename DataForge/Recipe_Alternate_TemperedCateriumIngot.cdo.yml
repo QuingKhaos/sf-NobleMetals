@@ -1,0 +1,11 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/AlternateRecipes/New_Update9_Ingots/Recipe_Alternate_CateriumIngot_Tempered.Recipe_Alternate_CateriumIngot_Tempered_C
+    properties:
+      - path: mDisplayName
+        value:
+          ns: NobleMetals
+          key: TemperedGoldIngot/Recipe
+          source: "Alternate: Tempered Gold Ingot"

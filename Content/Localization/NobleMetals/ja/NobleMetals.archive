@@ -1,0 +1,473 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "NobleMetals",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Advanced Capacitors"
+					},
+					"Translation":
+					{
+						"Text": "高度なコンデンサー"
+					},
+					"Key": "AdvancedCapacitors/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Gold Computer"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "GoldComputer/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Leached Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "LeachedGoldIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Pure Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "PureGoldIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Tempered Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "TemperedGoldIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bauxite (Gold)"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Bauxite/Gold/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "CPU"
+					},
+					"Translation":
+					{
+						"Text": "CPU"
+					},
+					"Key": "CPU/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Central Processing Unit"
+					},
+					"Translation":
+					{
+						"Text": "中央処理装置"
+					},
+					"Key": "CPU/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Copper Ore that contains Platinum and Palladium."
+					},
+					"Translation":
+					{
+						"Text": "プラチナとパラジウムを含む銅鉱石。"
+					},
+					"Key": "RichCopperOre/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ficsite Ingot (Gold)"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "FicsiteIngot/Gold/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Gold/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "GoldIngot/Abbr"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "GoldOre/Abbr"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Electronics"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "GoldElectronics/Schematic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": "金インゴット"
+					},
+					"Key": "GoldIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ore"
+					},
+					"Translation":
+					{
+						"Text": "金鉱石"
+					},
+					"Key": "GoldOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ore (Copper)"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "GoldOre/Copper/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ore (Quartz)"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "GoldOre/Quartz/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "MLCC"
+					},
+					"Translation":
+					{
+						"Text": "MLCC"
+					},
+					"Key": "MLCC/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mainboard"
+					},
+					"Translation":
+					{
+						"Text": "マザーボード"
+					},
+					"Key": "Mainboard/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multi-Layer Ceramic Capacitor"
+					},
+					"Translation":
+					{
+						"Text": "積層セラミックコンデンサ"
+					},
+					"Key": "MLCC/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nitrogen Gas (Gold)"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "NitrogenGas/Gold/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Palladium Ingot"
+					},
+					"Translation":
+					{
+						"Text": "パラジウムインゴット"
+					},
+					"Key": "PalladiumIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Palladium Powder"
+					},
+					"Translation":
+					{
+						"Text": "パラジウム粉末"
+					},
+					"Key": "PalladiumPowder/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Palladium Processing"
+					},
+					"Translation":
+					{
+						"Text": "パラジウム処理"
+					},
+					"Key": "PalladiumProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Platinum Ingot"
+					},
+					"Translation":
+					{
+						"Text": "プラチナインゴット"
+					},
+					"Key": "PlatinumIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Platinum Powder"
+					},
+					"Translation":
+					{
+						"Text": "プラチナ粉末"
+					},
+					"Key": "PlatinumPowder/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Platinum Processing"
+					},
+					"Translation":
+					{
+						"Text": "プラチナ処理"
+					},
+					"Key": "PlatinumProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rich Copper Ingot"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "RichCopperIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rich Copper Ore"
+					},
+					"Translation":
+					{
+						"Text": "リッチ銅鉱石"
+					},
+					"Key": "RichCopperOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Brazing Alloy"
+					},
+					"Translation":
+					{
+						"Text": "銀蝋棒"
+					},
+					"Key": "SilverBrazingAlloy/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Concentrate"
+					},
+					"Translation":
+					{
+						"Text": "濃縮銀"
+					},
+					"Key": "SilverOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Ingot"
+					},
+					"Translation":
+					{
+						"Text": "銀インゴット"
+					},
+					"Key": "SilverIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Plate"
+					},
+					"Translation":
+					{
+						"Text": "銀板"
+					},
+					"Key": "SilverPlate/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Processing"
+					},
+					"Translation":
+					{
+						"Text": "銀処理"
+					},
+					"Key": "SilverProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Wire"
+					},
+					"Translation":
+					{
+						"Text": "銀線"
+					},
+					"Key": "SilverWire/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Smelted from Gold Ore. Primarily used for advanced electronics."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "GoldIngot/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Smelted into Gold Ingots, which are primarily used for advanced electronics."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "GoldOre/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Temperature Regulation"
+					},
+					"Translation":
+					{
+						"Text": "温度制御"
+					},
+					"Key": "TemperatureRegulation/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Temperature Sensor"
+					},
+					"Translation":
+					{
+						"Text": "温度センサー"
+					},
+					"Key": "TemperatureSensor/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium-Palladium Flange"
+					},
+					"Translation":
+					{
+						"Text": "チタンパラジウム継手"
+					},
+					"Key": "TitaniumPalladiumFlange/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "With minimal effort, gold can be used in the development of advanced electronics. It is unclear whether this is a naturally occurring on MASSAGE-2 (AB)b."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Gold/PostUnlock/Desc"
+				}
+			]
+		}
+	]
+}

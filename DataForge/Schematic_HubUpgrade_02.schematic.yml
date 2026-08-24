@@ -1,0 +1,8 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/schematic.schema.yml
+type: schematic
+schematics:
+  - class: /Game/FactoryGame/Schematics/Tutorial/Schematic_Tutorial1_5.Schematic_Tutorial1_5_C
+    register: false
+    recipes:
+      - /NobleMetals/Recipes/Recipe_CopperIngot_WorkBench.Recipe_CopperIngot_WorkBench_C
