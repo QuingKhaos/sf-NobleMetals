@@ -1,0 +1,14 @@
+---
+$schema: https://raw.githubusercontent.com/Satisfactory-KMods/KDataForge-Linter/refs/heads/main/src/kdataforge_linter/schemas/cdo.schema.yml
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/AlternateRecipes/New_Update4/Recipe_Alternate_OCSupercomputer.Recipe_Alternate_OCSupercomputer_C
+    properties:
+      - path: mIngredients
+        op: append
+        value:
+          ItemClass: /NobleMetals/Resources/MLCC/Desc_MLCC.Desc_MLCC_C
+          Amount: 50
+      - path: mProducedIn
+        value:
+          - /Game/FactoryGame/Buildable/Factory/ManufacturerMk1/Build_ManufacturerMk1.Build_ManufacturerMk1_C
