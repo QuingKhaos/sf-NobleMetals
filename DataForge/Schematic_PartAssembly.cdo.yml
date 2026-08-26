@@ -7,5 +7,5 @@ patches:
       - path: mCost
         op: append
         value:
-          ItemClass: /NobleMetals/Resources/SilverBrazingAlloy/Desc_SilverBrazingAlloy.Desc_SilverBrazingAlloy_C
+          ItemClass: /NobleMetals/Resources/SilverPlate/Desc_SilverPlate.Desc_SilverPlate_C
           Amount: 100
