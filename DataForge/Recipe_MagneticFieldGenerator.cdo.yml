@@ -10,5 +10,6 @@ patches:
           ItemClass: /NobleMetals/Resources/TemperatureSensor/Desc_TemperatureSensor.Desc_TemperatureSensor_C
           Amount: 1
       - path: mProducedIn
-        value:
-          - /Game/FactoryGame/Buildable/Factory/ManufacturerMk1/Build_ManufacturerMk1.Build_ManufacturerMk1_C
+        op: replace
+        index: 0
+        value: /Game/FactoryGame/Buildable/Factory/ManufacturerMk1/Build_ManufacturerMk1.Build_ManufacturerMk1_C

@@ -68,6 +68,8 @@ Silver is mostly used as a buildable ingredient.
 
 ![Platinum Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_PlatinumIngot.png?raw=true)
 
+A separate Platinum Ingot recipe is created without sulfur byproduct, which can be exclusively crafted in workbenchs.
+
 ### Palladium Processing
 
 ![Palladium Processing schematic](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Schematic_PalladiumProcessing.png?raw=true)
@@ -75,6 +77,8 @@ Silver is mostly used as a buildable ingredient.
 #### Palladium Ingot
 
 ![Palladium Ingot recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_PalladiumIngot.png?raw=true)
+
+A separate Palladium Ingot recipe is created without sulfur byproduct, which can be exclusively crafted in workbenchs.
 
 #### Titanium-Palladium Flange
 
