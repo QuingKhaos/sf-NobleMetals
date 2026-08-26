@@ -4,6 +4,8 @@ Date: ????
   Changes:
     - Ensure simple solid recipes can be handcrafted in the workbench.
     - Make silver wire a true alternate for wires.
+  Locale:
+    - Complete German translation.
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 2026-08-26

@@ -1,0 +1,473 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "NobleMetals",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Advanced Capacitors"
+					},
+					"Translation":
+					{
+						"Text": "Fortschrittliche Kondensatoren"
+					},
+					"Key": "AdvancedCapacitors/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Gold Computer"
+					},
+					"Translation":
+					{
+						"Text": "Alternative: Gold-Computer"
+					},
+					"Key": "GoldComputer/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Leached Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Alternative: Gelaugter Goldbarren"
+					},
+					"Key": "LeachedGoldIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Pure Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Alternative: Reiner Goldbarren"
+					},
+					"Key": "PureGoldIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Silver Wire"
+					},
+					"Translation":
+					{
+						"Text": "Alternative: Silberdraht"
+					},
+					"Key": "SilverWire/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Tempered Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Alternative: Gehärteter Goldbarren"
+					},
+					"Key": "TemperedGoldIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bauxite (Gold)"
+					},
+					"Translation":
+					{
+						"Text": "Bauxit (Gold)"
+					},
+					"Key": "Bauxite/Gold/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "CPU"
+					},
+					"Translation":
+					{
+						"Text": "CPU"
+					},
+					"Key": "CPU/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Central Processing Unit"
+					},
+					"Translation":
+					{
+						"Text": "Zentraleinheit (CPU)"
+					},
+					"Key": "CPU/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Copper Ore that contains Platinum and Palladium."
+					},
+					"Translation":
+					{
+						"Text": "Kupfererz, das Platin und Palladium enthält."
+					},
+					"Key": "RichCopperOre/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ficsite Ingot (Gold)"
+					},
+					"Translation":
+					{
+						"Text": "Ficsit-Barren (Gold)"
+					},
+					"Key": "FicsiteIngot/Gold/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold"
+					},
+					"Translation":
+					{
+						"Text": "Gold"
+					},
+					"Key": "GoldIngot/Abbr"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold"
+					},
+					"Translation":
+					{
+						"Text": "Gold"
+					},
+					"Key": "GoldOre/Abbr"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold"
+					},
+					"Translation":
+					{
+						"Text": "Gold"
+					},
+					"Key": "Gold/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Electronics"
+					},
+					"Translation":
+					{
+						"Text": "Gold-Elektronik"
+					},
+					"Key": "GoldElectronics/Schematic"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Goldbarren"
+					},
+					"Key": "GoldIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ore"
+					},
+					"Translation":
+					{
+						"Text": "Golderz"
+					},
+					"Key": "GoldOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ore (Copper)"
+					},
+					"Translation":
+					{
+						"Text": "Golderz (Kupfer)"
+					},
+					"Key": "GoldOre/Copper/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold Ore (Quartz)"
+					},
+					"Translation":
+					{
+						"Text": "Golderz (Quarz)"
+					},
+					"Key": "GoldOre/Quartz/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "MLCC"
+					},
+					"Translation":
+					{
+						"Text": "MLCC (Mehrschicht-Keramikkondensator)"
+					},
+					"Key": "MLCC/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mainboard"
+					},
+					"Translation":
+					{
+						"Text": "Hauptplatine"
+					},
+					"Key": "Mainboard/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multi-Layer Ceramic Capacitor"
+					},
+					"Translation":
+					{
+						"Text": "Mehrschicht-Keramikkondensator"
+					},
+					"Key": "MLCC/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Nitrogen Gas (Gold)"
+					},
+					"Translation":
+					{
+						"Text": "Stickstoffgas (Gold)"
+					},
+					"Key": "NitrogenGas/Gold/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Palladium Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Palladiumbarren"
+					},
+					"Key": "PalladiumIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Palladium Powder"
+					},
+					"Translation":
+					{
+						"Text": "Palladiumpulver"
+					},
+					"Key": "PalladiumPowder/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Palladium Processing"
+					},
+					"Translation":
+					{
+						"Text": "Palladiumverarbeitung"
+					},
+					"Key": "PalladiumProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Platinum Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Platinbarren"
+					},
+					"Key": "PlatinumIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Platinum Powder"
+					},
+					"Translation":
+					{
+						"Text": "Platinpulver"
+					},
+					"Key": "PlatinumPowder/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Platinum Processing"
+					},
+					"Translation":
+					{
+						"Text": "Platinverarbeitung"
+					},
+					"Key": "PlatinumProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rich Copper Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Kupferreicher Barren"
+					},
+					"Key": "RichCopperIngot/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Rich Copper Ore"
+					},
+					"Translation":
+					{
+						"Text": "Kupferreiches Erz"
+					},
+					"Key": "RichCopperOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Brazing Alloy"
+					},
+					"Translation":
+					{
+						"Text": "Silberlotlegierung"
+					},
+					"Key": "SilverBrazingAlloy/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Concentrate"
+					},
+					"Translation":
+					{
+						"Text": "Silberkonzentrat"
+					},
+					"Key": "SilverOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Ingot"
+					},
+					"Translation":
+					{
+						"Text": "Silberlot"
+					},
+					"Key": "SilverIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Plate"
+					},
+					"Translation":
+					{
+						"Text": "Silberplatte"
+					},
+					"Key": "SilverPlate/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silver Processing"
+					},
+					"Translation":
+					{
+						"Text": "Silberverarbeitung"
+					},
+					"Key": "SilverProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Smelted from Gold Ore. Primarily used for advanced electronics."
+					},
+					"Translation":
+					{
+						"Text": "Aus Golderz geschmolzen. Wird hauptsächlich für fortschrittliche Elektronik verwendet."
+					},
+					"Key": "GoldIngot/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Smelted into Gold Ingots, which are primarily used for advanced electronics."
+					},
+					"Translation":
+					{
+						"Text": "Wird zu Goldbarren geschmolzen, die hauptsächlich für fortschrittliche Elektronik verwendet werden."
+					},
+					"Key": "GoldOre/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Temperature Regulation"
+					},
+					"Translation":
+					{
+						"Text": "Temperaturregelung"
+					},
+					"Key": "TemperatureRegulation/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Temperature Sensor"
+					},
+					"Translation":
+					{
+						"Text": "Temperatursensor"
+					},
+					"Key": "TemperatureSensor/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Titanium-Palladium Flange"
+					},
+					"Translation":
+					{
+						"Text": "Titan-Palladium-Flansch"
+					},
+					"Key": "TitaniumPalladiumFlange/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "With minimal effort, gold can be used in the development of advanced electronics. It is unclear whether this is a naturally occurring on MASSAGE-2 (AB)b."
+					},
+					"Translation":
+					{
+						"Text": "Mit geringem Aufwand kann Gold für die Entwicklung fortschrittlicher Elektronik verwendet werden. Es ist unklar, ob dieses auf MASSAGE-2 (AB)b natürlich vorkommt."
+					},
+					"Key": "Gold/PostUnlock/Desc"
+				}
+			]
+		}
+	]
+}
