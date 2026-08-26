@@ -56,6 +56,18 @@
 				{
 					"Source":
 					{
+						"Text": "Alternate: Silver Wire"
+					},
+					"Keys": [
+						{
+							"Key": "SilverWire/Recipe",
+							"Path": "/NobleMetals/ST_NobleMetals.ST_NobleMetals"
+						}
+					]
+				},
+				{
+					"Source":
+					{
 						"Text": "Alternate: Tempered Gold Ingot"
 					},
 					"Keys": [
@@ -405,18 +417,6 @@
 					"Keys": [
 						{
 							"Key": "SilverProcessing/Name",
-							"Path": "/NobleMetals/ST_NobleMetals.ST_NobleMetals"
-						}
-					]
-				},
-				{
-					"Source":
-					{
-						"Text": "Silver Wire"
-					},
-					"Keys": [
-						{
-							"Key": "SilverWire/Name",
 							"Path": "/NobleMetals/ST_NobleMetals.ST_NobleMetals"
 						}
 					]

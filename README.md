@@ -54,7 +54,7 @@ Silver is mostly used as a buildable ingredient.
 
 #### Silver Wire
 
-![Silver Wire recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_SilverWire.png?raw=true)
+![Silver Wire alternate recipe](https://github.com/QuingKhaos/sf-NobleMetals/blob/0.x/.github/images/Recipe_Alternate_SilverWire.png?raw=true)
 
 #### Silver Brazing Alloy
 

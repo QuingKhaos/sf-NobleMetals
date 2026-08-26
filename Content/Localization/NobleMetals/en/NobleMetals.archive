@@ -52,6 +52,17 @@
 				{
 					"Source":
 					{
+						"Text": "Alternate: Silver Wire"
+					},
+					"Translation":
+					{
+						"Text": "Alternate: Silver Wire"
+					},
+					"Key": "SilverWire/Recipe"
+				},
+				{
+					"Source":
+					{
 						"Text": "Alternate: Tempered Gold Ingot"
 					},
 					"Translation":
@@ -124,17 +135,6 @@
 					{
 						"Text": "Gold"
 					},
-					"Key": "Gold/Name"
-				},
-				{
-					"Source":
-					{
-						"Text": "Gold"
-					},
-					"Translation":
-					{
-						"Text": "Gold"
-					},
 					"Key": "GoldIngot/Abbr"
 				},
 				{
@@ -147,6 +147,17 @@
 						"Text": "Gold"
 					},
 					"Key": "GoldOre/Abbr"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gold"
+					},
+					"Translation":
+					{
+						"Text": "Gold"
+					},
+					"Key": "Gold/Name"
 				},
 				{
 					"Source":
@@ -389,17 +400,6 @@
 						"Text": "Silver Processing"
 					},
 					"Key": "SilverProcessing/Name"
-				},
-				{
-					"Source":
-					{
-						"Text": "Silver Wire"
-					},
-					"Translation":
-					{
-						"Text": "Silver Wire"
-					},
-					"Key": "SilverWire/Name"
 				},
 				{
 					"Source":
