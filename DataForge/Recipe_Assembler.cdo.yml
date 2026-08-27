@@ -8,4 +8,4 @@ patches:
         op: append
         value:
           ItemClass: /NobleMetals/Resources/SilverPlate/Desc_SilverPlate.Desc_SilverPlate_C
-          Amount: 50
+          Amount: 5

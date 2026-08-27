@@ -8,4 +8,4 @@ patches:
         op: append
         value:
           ItemClass: /NobleMetals/Resources/SilverBrazingAlloy/Desc_SilverBrazingAlloy.Desc_SilverBrazingAlloy_C
-          Amount: 50
+          Amount: 5
