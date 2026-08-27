@@ -6,6 +6,8 @@ Adds gold, silver, platinum and palladium to the game. Reworks computer producti
 
 Note, when [Lead](https://ficsit.app/mod/Lead) is installed, Lead Ingot smelting outputs a silver byproduct instead of a copper byproduct.
 
+If you need to plan things out, you can use my [custom database](https://github.com/QuingKhaos/KhaosSatisfactoryModelerData) for Satisfactory Modeler. Gold Ore/Ingot is still called Caterium Ore/Ingot within Satisfactory Modeler to avoid unecessary duplication.
+
 ## What's in this mod?
 
 ### Gold
